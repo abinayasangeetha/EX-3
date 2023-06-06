@@ -50,11 +50,12 @@ while True:
 	s.send("acknowledgement recieved from the server".encode())
 ```
 # CLIENT OUTPUT :
-![output](C1.png)
+![image](https://github.com/sakthipriyadhanusu/EX-3/assets/119393194/b96ed226-8baf-46d0-acf2-3416e8c2535a)
 
 
 # SERVER OUTPUT :
-![output](S1.png)
+![image](https://github.com/sakthipriyadhanusu/EX-3/assets/119393194/a3b5eefa-4f00-4200-9f75-1edf98699e60)
+
 
 
 

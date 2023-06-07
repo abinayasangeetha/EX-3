@@ -2,7 +2,7 @@
 
 # EXP: 3
 
-# DATE:22-03-2023
+# DATE:
 
 # AIM :
 ## To write a python program to perform sliding window protocol
